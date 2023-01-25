@@ -1,0 +1,60 @@
+/* .para{
+    color: coral;
+    border: 2px solid red;
+    padding: 20px;
+    margin: 20px;
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+
+p{
+    color: blueviolet;
+}
+p1{
+    color: aqua;
+    font-size: larger;
+    font-weight: 200;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    background-color: rgb(255, 185, 127);
+    border-width: 5px;
+    border :5px solid red;
+    padding: 20px;
+    margin: 30px;
+    border-top-left-radius: 50px 30px;
+    border-bottom-left-radius: 50px;
+} */
+.heading{
+    color: red;
+}
+.heading1{
+    color: red;
+    font-style: italic;
+    
+}
+.line3{
+    text-decoration: line-through;
+}
+.line4{
+    text-decoration: underline;
+    font-style: italic;
+}
+.heading2{
+    color: red;
+    font-style: italic;
+}
+.li1{
+    text-decoration: none;
+    letter-spacing: 5px;
+}
+.sp{
+    background-color: yellow;
+}
+a{
+    text-decoration: none;
+    background-color: yellow;
+    color: red;
+    font-style: italic;
+}
